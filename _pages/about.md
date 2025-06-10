@@ -36,5 +36,5 @@ In particular, I am drawn to <b>representation learning</b>, <b>graph neural net
 </p>
 
 <p style="text-align: justify;">
-Prior to my current studies, I spent over five years as a Data Scientist at <a href="https://iconpro.com/en/">IconPro</a>, where I developed machine learning solutions for industrial applications. I hold a bachelor's degree in Mechatronics Engineering from the Federal University of Santa Catarina (UFSC), where I gained early research experience in machine learning, working on computer vision and time series forecasting under the supervision of <a href="https://pajaskowiak.github.io/">Prof. Pablo A. Jaskowiak</a>.
+Prior to my current studies, I spent over five years as a Data Scientist at <a href="https://iconpro.com/en/">IconPro</a>, where I developed machine learning solutions for industrial applications. I hold a bachelor's degree in Mechatronics Engineering from the <a href="https://en.ufsc.br/2020/03/20/mechatronics-engineering-joinville/">Federal University of Santa Catarina (UFSC)</a>, where I gained early research experience in machine learning, working on computer vision and time series forecasting under the supervision of <a href="https://pajaskowiak.github.io/">Prof. Pablo A. Jaskowiak</a>.
 </p>

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted to the NeuroAI course from [Neuromatch Academy](https://neuromatch.io/) 🧠
+Accepted to the NeuroAI course from <a href="https://neuromatch.io/" style="color: inherit; text-decoration: none;">Neuromatch Academy</a> 🧠
