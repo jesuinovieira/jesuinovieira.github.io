@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.umontreal.ca/en/'>Université de Montréal</a>, MSc Computer Science (Incoming Student)
+subtitle: <a href='https://www.umontreal.ca/en/'>Université de Montréal</a>, MSc in Artificial Intelligence
 
 profile:
   align: right
@@ -28,13 +28,14 @@ latest_posts:
 ---
 
 <p style="text-align: justify;">
-I am broadly interested in <b>deep learning</b> and <b>AI for scientific discovery</b>.
+I am broadly interested in <b>deep learning</b> and its role in <b>scientific discovery</b>.
+</p>
+
+
+<p style="text-align: justify;">
+In particular, I aim to study how <b>meaningful representations</b> can be learned from complex signals and structures in nature, particularly (but not limited to) <b>neuroscience</b> and <b>computational biology</b>. I am inspired by the brain’s ability to process and organize information, and I want to explore how similar principles can guide the design of AI systems. At the same time, I am interested in how advances in AI can provide new tools to better understand the brain and the mind.
 </p>
 
 <p style="text-align: justify;">
-In particular, I am drawn to <b>representation learning</b>, <b>graph neural networks</b>, <b>generative models</b>, and <b>reinforcement learning</b>. I am motivated by research that leverages these methods to tackle real-world challenges, such as accelerating drug discovery, addressing climate-related problems, and advancing our understanding of the brain.
-</p>
-
-<p style="text-align: justify;">
-Prior to my current studies, I spent over five years as a Data Scientist at <a href="https://iconpro.com/en/">IconPro</a>, where I developed machine learning solutions for industrial applications. I hold a bachelor's degree in Mechatronics Engineering from the <a href="https://en.ufsc.br/2020/03/20/mechatronics-engineering-joinville/">Federal University of Santa Catarina (UFSC)</a>, where I gained early research experience in machine learning, working on computer vision and time series forecasting under the supervision of <a href="https://pajaskowiak.github.io/">Prof. Pablo A. Jaskowiak</a>.
+Before my master’s, I spent over five years as a Data Scientist at <a href="https://iconpro.com/en/">IconPro</a>, where I developed end-to-end machine learning pipelines for industrial applications. I hold a bachelor's degree in Mechatronics Engineering from the <a href="https://en.ufsc.br/2020/03/20/mechatronics-engineering-joinville/">Federal University of Santa Catarina (UFSC)</a>, where I gained early research experience in artificial intelligence, working on computer vision and time series forecasting under the supervision of <a href="https://pajaskowiak.github.io/">Prof. Pablo A. Jaskowiak</a>.
 </p>
