@@ -31,7 +31,6 @@ latest_posts:
 I am broadly interested in <b>deep learning</b> and its role in <b>scientific discovery</b>.
 </p>
 
-
 <p style="text-align: justify;">
 In particular, I aim to study how <b>meaningful representations</b> can be learned from complex signals and structures in nature, particularly (but not limited to) <b>neuroscience</b> and <b>computational biology</b>. I am inspired by the brain’s ability to process and organize information, and I want to explore how similar principles can guide the design of AI systems. At the same time, I am interested in how advances in AI can provide new tools to better understand the brain and the mind.
 </p>
