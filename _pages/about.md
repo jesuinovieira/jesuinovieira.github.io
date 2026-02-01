@@ -32,7 +32,8 @@ I am broadly interested in <b>deep learning</b> and its role in <b>scientific di
 </p>
 
 <p style="text-align: justify;">
-In particular, I aim to study how <b>meaningful representations</b> can be learned from complex signals and structures in nature, particularly (but not limited to) <b>neuroscience</b> and <b>computational biology</b>. I am inspired by the brain’s ability to process and organize information, and I want to explore how similar principles can guide the design of AI systems. At the same time, I am interested in how advances in AI can provide new tools to better understand the brain and the mind.
+I am interested in the challenge of distilling robust abstract representations from high-dimensional and complex data to improve generalization and data efficiency. To approach this, I am studying how inductive biases (such as geometric constraints) can teach models to be invariant to task-irrelevant noise, effectively separating the signal from the distractions. Conversely, on the generative side, I'm interested in sample-efficient models that can explore the underlying manifolds of the data.
+<!-- In particular, I aim to study how <b>meaningful representations</b> can be learned from complex signals and structures in nature, particularly (but not limited to) <b>neuroscience</b> and <b>computational biology</b>. I am inspired by the brain’s ability to process and organize information, and I want to explore how similar principles can guide the design of AI systems. At the same time, I am interested in how advances in AI can provide new tools to better understand the brain and the mind. -->
 </p>
 
 <p style="text-align: justify;">
